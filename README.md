@@ -1,2 +1,2 @@
 # Second_Site
-a new site, now if some more css knowledge.
+a new site, now with some more css knowledge.
